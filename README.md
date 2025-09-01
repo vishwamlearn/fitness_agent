@@ -11,5 +11,6 @@ Medical Safety Evaluation: It takes an optional medical history and performs an 
 
 Suggested Alternatives: If an exercise is found to be unsafe, the agent suggests a safe, alternative exercise that targets the same muscle group.
 
+usage :- python fitness_agent.py
 Intuitive Interface: A user-friendly Gradio interface allows for easy input and displays the final workout plan and safety analysis.
 <img width="1358" height="738" alt="image" src="https://github.com/user-attachments/assets/bef3542b-2dd6-4bd4-865f-64ba6f9a39b7" />
